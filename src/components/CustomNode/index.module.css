@@ -1,0 +1,8 @@
+.container {
+    margin: 10px;
+    display: flex;
+}
+
+.button {
+    margin: 10px;
+}

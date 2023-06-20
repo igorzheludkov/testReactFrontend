@@ -1,0 +1,29 @@
+.dropdown {
+    position: relative;
+    min-height: 50px;
+    width: 250px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dropdownToggle {
+    
+}
+.dropdownMenu {
+    position: absolute;
+    display: flex;
+    width: 60%;
+    background-color: antiquewhite;
+    /* align-items: center; */
+    /* justify-content: center; */
+
+    flex-direction: column;
+    left: 0;
+    top: 60px;
+}
+
+.checkboxText {
+    font-size: 16px;
+    padding: 5px
+}
